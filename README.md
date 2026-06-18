@@ -54,3 +54,9 @@ The design was verified using a dedicated testbench and simulated using Icarus V
 Faraaz Shaikh
 
 B.Tech Electronics Engineering (VLSI Design & Technology)
+
+## Simulation Waveform
+
+The functionality of the 4x4 Structural Multiplier was verified using Icarus Verilog and GTKWave.
+
+![Waveform](Screenshot/Waveform.png)
